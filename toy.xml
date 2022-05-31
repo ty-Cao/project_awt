@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<INSERTCOURSES>  
+  <COURSE>
+      <CS_NAME>Expertenstandard - Schmerzmanagement</CS_NAME>
+      <CS_ID>A04E1A98-A9A8-8118-97DF-624B26934CA5</CS_ID>
+      <CS_DESC_LONG>Im Online-Seminar werden die Neuerungen im pflegerischen Schmerzmanagement dargestellt und gemeinsam erarbeitet.      </CS_DESC_LONG>
+      <CS_INFOLINK>https://www.dbfk.de/de/bildungsangebote/termine/2021/Expertenstandard-Schmerzmanagement.php</CS_INFOLINK>
+      <CS_LANGUAGE>ger</CS_LANGUAGE>
+      <COURSESCHEDULES PERMANENT="false" WDB_IWWB="true" REQUEST="true">
+        <FREESCHEDULE>Termin auf Anfrage</FREESCHEDULE>
+      </COURSESCHEDULES>
+      <CS_SUPPLIERID>AACBE157-4147-73C7-F43C-441046257E18</CS_SUPPLIERID>
+      <CONTACT>
+        <C_NAME>Pfundt-Wartmann</C_NAME>
+        <C_SURNAME></C_SURNAME>
+        <C_POSITION>Teamassistentin</C_POSITION>
+        <C_PHONE>+49.30.208987260</C_PHONE>
+        <C_FAX>+49.30.208987289</C_FAX>
+        <C_EMAIL>nordost@dbfk.de</C_EMAIL>
+        <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+      </CONTACT>
+      <CS_PROMOTION_DESC>keine Förderung bekannt/ möglich</CS_PROMOTION_DESC>
+      <CS_REQUIREMENTS>keine</CS_REQUIREMENTS>
+      <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
+      <CS_PRICE>100</CS_PRICE>
+      <CS_PRICE_CURRENCY>EUR</CS_PRICE_CURRENCY>
+      <CS_PRICE_TOTAL>true</CS_PRICE_TOTAL>
+      <CS_PRICE_INFO>DBfK-Mitglieder 80,00 Euro</CS_PRICE_INFO>
+      <CS_CERTIFICATE_DESC>Nicht zertifiziert</CS_CERTIFICATE_DESC>
+      <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
+      <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
+      <CS_WDB_ZIELGRUPPE>alle in der Pflege Tätigen</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Teilzeitveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
+      <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
+      <CS_WDB_MODE>Virtuelles Klassenzimmer</CS_WDB_MODE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>5</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
+      <CS_WDB_GESAMTDAUER_ANZAHL>1</CS_WDB_GESAMTDAUER_ANZAHL>
+      <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
+      <CS_WDB_ADDRESS> 
+        <ADDRESS> 
+          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
+          <A_STREET>Alt-Moabit 91</A_STREET>
+          <A_CITY>Berlin</A_CITY>
+          <A_ZIP>10559</A_ZIP>
+          <A_COUNTRY>DE</A_COUNTRY>
+          <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+        </ADDRESS> 
+      </CS_WDB_ADDRESS> 
+      <CS_WDB_TEILNEHMER_MIN>10</CS_WDB_TEILNEHMER_MIN>
+      <CS_WDB_TEILNEHMER_MAX>12</CS_WDB_TEILNEHMER_MAX>
+      <CS_WDB_SYSTEMATIK_AA>C 1025-16</CS_WDB_SYSTEMATIK_AA>
+      <CS_WDB_SYSTEMATIK_AA>C 1025-15</CS_WDB_SYSTEMATIK_AA>
+      <CS_WDB_SCHULART_AA typ="105" />
+      <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
+    </COURSE>
+    <COURSE>
+      <CS_NAME>Gesund im Beruf - Neue Wege zur Regulierung von emotionalem Stress</CS_NAME>
+      <CS_ID>A04E482B-024A-A929-CE4D-F3DC69B7AA17</CS_ID>
+      <CS_DESC_LONG>Das Besondere in diesem Seminar ist das Kennenlernen moderner Methoden emotionaler Selbstorganisation zur Aktivierung der Selbstheilungskräfte, die auf der Grundlage neuester wissenschaftlicher Erkenntnisse entwickelt wurden.     </CS_DESC_LONG>
+      <CS_INFOLINK>https://www.dbfk.de/de/bildungsangebote/termine/2021/Gesund-im-Beruf-Neue-Wege-zur-Regulierung-von-emotionalem-Stress.php</CS_INFOLINK>
+      <CS_LANGUAGE>ger</CS_LANGUAGE>
+      <COURSESCHEDULES PERMANENT="false" WDB_IWWB="true" REQUEST="false">
+        <SCHEDULE> 
+          <S_ID>2562067C-58F4-406E-33B1-2C0938BC830F</S_ID>
+          <S_START_DATE>2022-09-06T00:00:00</S_START_DATE>
+          <S_END_DATE>2022-09-06T00:00:00</S_END_DATE>
+          <S_DURATION_NUM>7</S_DURATION_NUM>
+          <S_DURATION_UNIT>Hours</S_DURATION_UNIT>
+          <S_DURATION_EST_NUM>1</S_DURATION_EST_NUM>
+          <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
+          <ADDRESS> 
+            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
+            <A_STREET>Alt-Moabit 91</A_STREET>
+            <A_CITY>Berlin</A_CITY>
+            <A_ZIP>10559</A_ZIP>
+            <A_COUNTRY>DE</A_COUNTRY>
+            <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+          </ADDRESS> 
+          <CONTACT>
+            <C_NAME>Pfundt-Wartmann</C_NAME>
+            <C_SURNAME></C_SURNAME>
+            <C_POSITION>Teamassistentin</C_POSITION>
+            <C_PHONE>+49.30.208987260</C_PHONE>
+            <C_FAX>+49.30.208987289</C_FAX>
+            <C_EMAIL>nordost@dbfk.de</C_EMAIL>
+            <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+          </CONTACT>
+          <S_WDB_BESCHR>Dienstag 09:30 - 16:30 Uhr</S_WDB_BESCHR>
+          <S_WDB_PRAKTIKUM>false</S_WDB_PRAKTIKUM>
+          <S_WDB_INFOLINK>https://www.dbfk.de/de/bildungsangebote/termine/2021/Gesund-im-Beruf-Neue-Wege-zur-Regulierung-von-emotionalem-Stress-1.php</S_WDB_INFOLINK>
+        </SCHEDULE> 
+        <SCHEDULE> 
+          <S_ID>290424CC-5CF0-0317-5DE1-5C63E1E617B1</S_ID>
+          <S_START_DATE>2022-06-02T00:00:00</S_START_DATE>
+          <S_END_DATE>2022-06-02T00:00:00</S_END_DATE>
+          <S_DURATION_NUM>7</S_DURATION_NUM>
+          <S_DURATION_UNIT>Hours</S_DURATION_UNIT>
+          <S_DURATION_EST_NUM>1</S_DURATION_EST_NUM>
+          <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
+          <ADDRESS> 
+            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
+            <A_STREET>Alt-Moabit 91</A_STREET>
+            <A_CITY>Berlin</A_CITY>
+            <A_ZIP>10559</A_ZIP>
+            <A_COUNTRY>DE</A_COUNTRY>
+            <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+          </ADDRESS> 
+          <CONTACT>
+            <C_NAME>Pfundt-Wartmann</C_NAME>
+            <C_SURNAME></C_SURNAME>
+            <C_POSITION>Teamassistentin</C_POSITION>
+            <C_PHONE>+49.30.208987260</C_PHONE>
+            <C_FAX>+49.30.208987289</C_FAX>
+            <C_EMAIL>nordost@dbfk.de</C_EMAIL>
+            <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+          </CONTACT>
+          <S_WDB_BESCHR>Donnerstag 09:30 - 16:30 Uhr</S_WDB_BESCHR>
+          <S_WDB_PRAKTIKUM>false</S_WDB_PRAKTIKUM>
+          <S_WDB_INFOLINK>https://www.dbfk.de/de/bildungsangebote/termine/2021/Gesund-im-Beruf-Neue-Wege-zur-Regulierung-von-emotionalem-Stress.php</S_WDB_INFOLINK>
+        </SCHEDULE> 
+      </COURSESCHEDULES>
+      <CS_SUPPLIERID>AACBE157-4147-73C7-F43C-441046257E18</CS_SUPPLIERID>
+      <CONTACT>
+        <C_NAME>Pfundt-Wartmann</C_NAME>
+        <C_SURNAME></C_SURNAME>
+        <C_POSITION>Teamassistentin</C_POSITION>
+        <C_PHONE>+49.30.208987260</C_PHONE>
+        <C_FAX>+49.30.208987289</C_FAX>
+        <C_EMAIL>nordost@dbfk.de</C_EMAIL>
+        <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+      </CONTACT>
+      <CS_PROMOTION_DESC>keine Förderung bekannt/ möglich</CS_PROMOTION_DESC>
+      <CS_REQUIREMENTS>keine</CS_REQUIREMENTS>
+      <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
+      <CS_PRICE>125</CS_PRICE>
+      <CS_PRICE_CURRENCY>EUR</CS_PRICE_CURRENCY>
+      <CS_PRICE_TOTAL>true</CS_PRICE_TOTAL>
+      <CS_PRICE_INFO>DBfK-Mitglieder 95,00 Euro</CS_PRICE_INFO>
+      <CS_CERTIFICATE_DESC>Nicht zertifiziert</CS_CERTIFICATE_DESC>
+      <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
+      <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
+      <CS_WDB_ZIELGRUPPE>alle in der Pflege Tätigen</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Tagesveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
+      <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
+      <CS_WDB_MODE>Präsenzveranstaltung</CS_WDB_MODE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>7</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
+      <CS_WDB_GESAMTDAUER_ANZAHL>1</CS_WDB_GESAMTDAUER_ANZAHL>
+      <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
+      <CS_WDB_ADDRESS> 
+        <ADDRESS> 
+          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
+          <A_STREET>Alt-Moabit 91</A_STREET>
+          <A_CITY>Berlin</A_CITY>
+          <A_ZIP>10559</A_ZIP>
+          <A_COUNTRY>DE</A_COUNTRY>
+          <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+        </ADDRESS> 
+      </CS_WDB_ADDRESS> 
+      <CS_WDB_TEILNEHMER_MIN>10</CS_WDB_TEILNEHMER_MIN>
+      <CS_WDB_TEILNEHMER_MAX>12</CS_WDB_TEILNEHMER_MAX>
+      <CS_WDB_SYSTEMATIK_AA>C 3210-20</CS_WDB_SYSTEMATIK_AA>
+      <CS_WDB_SCHULART_AA typ="105" />
+      <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
+    </COURSE>
+</INSERTCOURSES>
