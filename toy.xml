@@ -1,6 +1,141 @@
-<?xml version="1.0" encoding="ISO-8859-15"?>
-<INSERTCOURSES>  
-  <COURSE>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="ISO-8859-15"?> -->
+<DEFTISCAT MULTIDOCUMENT="false" DELTAUPDATE="false" TIMESTAMP="2022-05-10T20:20:01" TIMESTAMP_INVALID="2023-05-10T20:20:01">
+<DATASUPPLIER>
+  <DS_NAME>WDB-Brandenburg</DS_NAME>
+  <ADDRESS>
+    <A_NAME>LASA Brandenburg GmbH</A_NAME>
+    <A_STREET>Wetzlarer Str. 54</A_STREET>
+    <A_CITY>Potsdam</A_CITY>
+    <A_ZIP>14482</A_ZIP>
+    <A_COUNTRY>DE</A_COUNTRY>
+    <A_PHONE>+49.331.6002200</A_PHONE>
+    <A_FAX>+49.331.6002400</A_FAX>
+    <A_EMAIL>weiterbildung@wfbb.de</A_EMAIL>
+    <A_WEB>http://www.weiterbildung-brandenburg.de</A_WEB>
+  </ADDRESS>
+  <CONTACT>
+    <C_NAME>Saalfrank</C_NAME>
+    <C_SURNAME>Heidrun</C_SURNAME>
+    <C_POSITION>Leiterin der Weiterbildungsdatenbank</C_POSITION>
+    <C_PHONE>+49.331.6002373</C_PHONE>
+    <C_FAX>+49.331.600211373</C_FAX>
+    <C_EMAIL>heidrun.saalfrank@wfbb.de</C_EMAIL>
+    <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+  </CONTACT>
+  <DS_TOPIC>Berufliche Bildung</DS_TOPIC>
+  <DS_AREA>Land Brandenburg</DS_AREA>
+  <DS_ID>727AA0F2-A31B-4A17-AC3B-F68E0DBEF084</DS_ID>
+</DATASUPPLIER>
+<COURSESUPPLIERS>
+  <COURSESUPPLIER>
+    <CSS_NAME>Institut für Weiterbildung in der Kranken- und Altenpflege gGmbH</CSS_NAME>
+    <CSS_ID>4C6ECEE4-5814-429D-1515-9697DFAEE874</CSS_ID>
+    <ADDRESS>
+      <A_NAME>Institut für Weiterbildung in der Kranken- und Altenpflege gGmbH</A_NAME>
+      <A_STREET>Fritz-Zubeil-Straße 14</A_STREET>
+      <A_CITY>Potsdam</A_CITY>
+      <A_ZIP>14482</A_ZIP>
+      <A_COUNTRY>DE</A_COUNTRY>
+      <A_PHONE>+49.331.5503636</A_PHONE>
+      <A_EMAIL>potsdam@iwk.eu</A_EMAIL>
+      <A_WEB>https://www.iwk.eu/standorte/brandeburg/potsdam</A_WEB>
+    </ADDRESS>
+    <CSS_QM_CERTIFICATE>DE_SGB 3</CSS_QM_CERTIFICATE>
+    <CONTACT>
+      <C_NAME>Jacob</C_NAME>
+      <C_SURNAME>Antje</C_SURNAME>
+      <C_TITLE>Dipl.-Med.-Päd.</C_TITLE>
+      <C_POSITION>Institutsleiterin</C_POSITION>
+      <C_PHONE>+49.331.5503636</C_PHONE>
+      <C_FAX>+49.331.5503498</C_FAX>
+      <C_EMAIL>potsdam@iwk.eu</C_EMAIL>
+      <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+    </CONTACT>
+    <CSS_WDB_ORGANISATIONSFORM_AA typ="2" ></CSS_WDB_ORGANISATIONSFORM_AA>
+    <CSS_WDB_PERSONALZERTIFIZIERUNG_MITARBEITER>nicht vorhanden</CSS_WDB_PERSONALZERTIFIZIERUNG_MITARBEITER>
+    <CSS_WDB_KOMPETENZEN>Wir, das Institut für Weiterbildung in der Kranken- &amp; Altenpflege gGmbH, sind ein bundesweit im Gesundheits- und Sozialwesen tätiger Bildungsträger. Auf neue Anforderungen des Arbeitsmarktes reagieren wir zeitgemäß und entsprechend der gesetzlichen Rahmenbedingungen, da die Vermittlung und Verbesserung der beruflichen Qualifikation unserer Teilnehmer(innen) zu unseren Unternehmenszielen gehört. Wir erkennen die Bedürfnisse unserer Kunden, koordinieren sie und setzen sie professionell um. Dazu bedienen wir uns moderner Managementtechniken um unsere herausragende Stellung auf dem Bildungsmarkt zu sichern und weiterzuentwickeln. Für die dauerhafte und erfolgreiche Existenz des Unternehmens setzen wir uns langfristige Ziele. </CSS_WDB_KOMPETENZEN>
+    <CSS_WDB_GRUENDUNGSJAHR>1980-06-01T00:00:00</CSS_WDB_GRUENDUNGSJAHR>
+  </COURSESUPPLIER>
+</COURSESUPPLIERS>
+<COURSETRANSACTIONS>
+  <INSERTCOURSES> 
+    <COURSE>
+      <CS_NAME>Fotografie Basiswissen Dokumentation in Beruf u. Alltag/Bildungsfreistellung</CS_NAME>
+      <CS_ID>A1E720B1-2A15-56B8-C656-9FDC4EB6E283</CS_ID>
+      <CS_DESC_LONG>Im Kurs erlernen Sie den sicheren Umgang mit ihrer digitalen Kamera/Tablet/Handy, um in den verschiedensten Situationen die richtige Kameraeinstellung selbständig vornehmen zu können. Außerdem werden Grundkenntnisse in der Bildbearbeitung und Archivierung sowie das Aufbereiten der Fotos erlernt und vertieft. Das Ziel sind anwendungsbereite Kenntnisse sowie Fähigkeiten der Bildaufnahme und -bearbeitung. Der Kurs ist geeignet für Personen, die im Berufsalltag zur Dokumentation von Ergebnissen/Arbeiten/Schäden die Fotografie nutzen. Ausführliche Info auf der Webseite.     </CS_DESC_LONG>
+      <CS_LANGUAGE>ger</CS_LANGUAGE>
+      <COURSESCHEDULES PERMANENT="false" WDB_IWWB="true" REQUEST="false">
+        <SCHEDULE> 
+          <S_ID>F5729590-48D2-2A6A-7818-BF359C679FD7</S_ID>
+          <S_START_DATE>2022-06-13T00:00:00</S_START_DATE>
+          <S_END_DATE>2022-06-17T00:00:00</S_END_DATE>
+          <S_DURATION_NUM>30</S_DURATION_NUM>
+          <S_DURATION_UNIT>Hours</S_DURATION_UNIT>
+          <S_DURATION_EST_NUM>5</S_DURATION_EST_NUM>
+          <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
+          <ADDRESS> 
+            <A_NAME>VHS Teltow Fläming, Lernort Luckenwalde, Haupthaus</A_NAME>
+            <A_STREET>Dessauer Str. 25</A_STREET>
+            <A_CITY>Luckenwalde</A_CITY>
+            <A_ZIP>14943</A_ZIP>
+            <A_COUNTRY>DE</A_COUNTRY>
+            <A_WDB_BEHINDERTENGERECHT>false</A_WDB_BEHINDERTENGERECHT>
+          </ADDRESS> 
+          <CONTACT>
+            <C_NAME>Volkshochschule Teltow-Fläming</C_NAME>
+            <C_SURNAME></C_SURNAME>
+            <C_PHONE>+49.3371.6083143</C_PHONE>
+            <C_FAX>+49.3371.6089071</C_FAX>
+            <C_EMAIL>vhs@teltow-flaeming.de</C_EMAIL>
+            <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+          </CONTACT>
+          <S_WDB_BESCHR>Mo, Di, Mi, Do, Fr 09:30 - 15:00 Uhr</S_WDB_BESCHR>
+          <S_WDB_PRAKTIKUM>false</S_WDB_PRAKTIKUM>
+          <S_WDB_INFOLINK>http://vhs.teltow-flaeming.de/programm/arbeit-beruf-edv.html</S_WDB_INFOLINK>
+        </SCHEDULE> 
+      </COURSESCHEDULES>
+      <CS_SUPPLIERID>532D7133-BCC7-7817-4B61-D9030431CEF6</CS_SUPPLIERID>
+      <CONTACT>
+        <C_NAME>Volkshochschule Teltow-Fläming</C_NAME>
+        <C_SURNAME></C_SURNAME>
+        <C_PHONE>+49.3371.6083143</C_PHONE>
+        <C_FAX>+49.3371.6089071</C_FAX>
+        <C_EMAIL>vhs@teltow-flaeming.de</C_EMAIL>
+        <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+      </CONTACT>
+      <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
+      <CS_PRICE>194</CS_PRICE>
+      <CS_PRICE_CURRENCY>EUR</CS_PRICE_CURRENCY>
+      <CS_PRICE_TOTAL>true</CS_PRICE_TOTAL>
+      <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
+      <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
+      <CS_WDB_ZIELGRUPPE>Erwachsene allgemein</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Tagesveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
+      <CS_WDB_PROMOTION>Bildungsprämie</CS_WDB_PROMOTION>
+      <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
+      <CS_WDB_MODE>E-Learning</CS_WDB_MODE>
+      <CS_WDB_MODE>Präsenzveranstaltung</CS_WDB_MODE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>30</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
+      <CS_WDB_GESAMTDAUER_ANZAHL>5</CS_WDB_GESAMTDAUER_ANZAHL>
+      <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
+      <CS_WDB_ADDRESS> 
+        <ADDRESS> 
+          <A_NAME>VHS Teltow Fläming, Lernort Luckenwalde, Haupthaus</A_NAME>
+          <A_STREET>Dessauer Str. 25</A_STREET>
+          <A_CITY>Luckenwalde</A_CITY>
+          <A_ZIP>14943</A_ZIP>
+          <A_COUNTRY>DE</A_COUNTRY>
+          <A_WDB_BEHINDERTENGERECHT>false</A_WDB_BEHINDERTENGERECHT>
+        </ADDRESS> 
+      </CS_WDB_ADDRESS> 
+      <CS_WDB_TEILNEHMER_MIN>5</CS_WDB_TEILNEHMER_MIN>
+      <CS_WDB_TEILNEHMER_MAX>12</CS_WDB_TEILNEHMER_MAX>
+      <CS_WDB_SCHULART_AA typ="105" />
+      <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
+    </COURSE>
+    <COURSE>
       <CS_NAME>Expertenstandard - Schmerzmanagement</CS_NAME>
       <CS_ID>A04E1A98-A9A8-8118-97DF-624B26934CA5</CS_ID>
       <CS_DESC_LONG>Im Online-Seminar werden die Neuerungen im pflegerischen Schmerzmanagement dargestellt und gemeinsam erarbeitet.      </CS_DESC_LONG>
@@ -19,7 +154,7 @@
         <C_EMAIL>nordost@dbfk.de</C_EMAIL>
         <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
       </CONTACT>
-      <CS_PROMOTION_DESC>keine F�rderung bekannt/ m�glich</CS_PROMOTION_DESC>
+      <CS_PROMOTION_DESC>keine Förderung bekannt/ möglich</CS_PROMOTION_DESC>
       <CS_REQUIREMENTS>keine</CS_REQUIREMENTS>
       <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
       <CS_PRICE>100</CS_PRICE>
@@ -29,17 +164,17 @@
       <CS_CERTIFICATE_DESC>Nicht zertifiziert</CS_CERTIFICATE_DESC>
       <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
       <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
-      <CS_WDB_ZIELGRUPPE>alle in der Pflege T�tigen</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZIELGRUPPE>alle in der Pflege Tätigen</CS_WDB_ZIELGRUPPE>
       <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Teilzeitveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
       <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
       <CS_WDB_MODE>Virtuelles Klassenzimmer</CS_WDB_MODE>
-      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebest�tigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
       <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>5</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
       <CS_WDB_GESAMTDAUER_ANZAHL>1</CS_WDB_GESAMTDAUER_ANZAHL>
       <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
       <CS_WDB_ADDRESS> 
         <ADDRESS> 
-          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband f�r Pflegeberufe</A_NAME>
+          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
           <A_STREET>Alt-Moabit 91</A_STREET>
           <A_CITY>Berlin</A_CITY>
           <A_ZIP>10559</A_ZIP>
@@ -53,11 +188,11 @@
       <CS_WDB_SYSTEMATIK_AA>C 1025-15</CS_WDB_SYSTEMATIK_AA>
       <CS_WDB_SCHULART_AA typ="105" />
       <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
-    </COURSE>
-    <COURSE>
+  </COURSE>
+  <COURSE>
       <CS_NAME>Gesund im Beruf - Neue Wege zur Regulierung von emotionalem Stress</CS_NAME>
       <CS_ID>A04E482B-024A-A929-CE4D-F3DC69B7AA17</CS_ID>
-      <CS_DESC_LONG>Das Besondere in diesem Seminar ist das Kennenlernen moderner Methoden emotionaler Selbstorganisation zur Aktivierung der Selbstheilungskr�fte, die auf der Grundlage neuester wissenschaftlicher Erkenntnisse entwickelt wurden.     </CS_DESC_LONG>
+      <CS_DESC_LONG>Das Besondere in diesem Seminar ist das Kennenlernen moderner Methoden emotionaler Selbstorganisation zur Aktivierung der Selbstheilungskräfte, die auf der Grundlage neuester wissenschaftlicher Erkenntnisse entwickelt wurden.     </CS_DESC_LONG>
       <CS_INFOLINK>https://www.dbfk.de/de/bildungsangebote/termine/2021/Gesund-im-Beruf-Neue-Wege-zur-Regulierung-von-emotionalem-Stress.php</CS_INFOLINK>
       <CS_LANGUAGE>ger</CS_LANGUAGE>
       <COURSESCHEDULES PERMANENT="false" WDB_IWWB="true" REQUEST="false">
@@ -70,7 +205,7 @@
           <S_DURATION_EST_NUM>1</S_DURATION_EST_NUM>
           <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
           <ADDRESS> 
-            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband f�r Pflegeberufe</A_NAME>
+            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
             <A_STREET>Alt-Moabit 91</A_STREET>
             <A_CITY>Berlin</A_CITY>
             <A_ZIP>10559</A_ZIP>
@@ -99,7 +234,7 @@
           <S_DURATION_EST_NUM>1</S_DURATION_EST_NUM>
           <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
           <ADDRESS> 
-            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband f�r Pflegeberufe</A_NAME>
+            <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
             <A_STREET>Alt-Moabit 91</A_STREET>
             <A_CITY>Berlin</A_CITY>
             <A_ZIP>10559</A_ZIP>
@@ -130,7 +265,7 @@
         <C_EMAIL>nordost@dbfk.de</C_EMAIL>
         <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
       </CONTACT>
-      <CS_PROMOTION_DESC>keine F�rderung bekannt/ m�glich</CS_PROMOTION_DESC>
+      <CS_PROMOTION_DESC>keine Förderung bekannt/ möglich</CS_PROMOTION_DESC>
       <CS_REQUIREMENTS>keine</CS_REQUIREMENTS>
       <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
       <CS_PRICE>125</CS_PRICE>
@@ -140,17 +275,17 @@
       <CS_CERTIFICATE_DESC>Nicht zertifiziert</CS_CERTIFICATE_DESC>
       <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
       <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
-      <CS_WDB_ZIELGRUPPE>alle in der Pflege T�tigen</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZIELGRUPPE>alle in der Pflege Tätigen</CS_WDB_ZIELGRUPPE>
       <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Tagesveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
       <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
-      <CS_WDB_MODE>Pr�senzveranstaltung</CS_WDB_MODE>
-      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebest�tigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_MODE>Präsenzveranstaltung</CS_WDB_MODE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
       <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>7</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
       <CS_WDB_GESAMTDAUER_ANZAHL>1</CS_WDB_GESAMTDAUER_ANZAHL>
       <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
       <CS_WDB_ADDRESS> 
         <ADDRESS> 
-          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband f�r Pflegeberufe</A_NAME>
+          <A_NAME>DBfK Nordost e.V. Berlin, Deutscher Berufsverband für Pflegeberufe</A_NAME>
           <A_STREET>Alt-Moabit 91</A_STREET>
           <A_CITY>Berlin</A_CITY>
           <A_ZIP>10559</A_ZIP>
@@ -163,5 +298,99 @@
       <CS_WDB_SYSTEMATIK_AA>C 3210-20</CS_WDB_SYSTEMATIK_AA>
       <CS_WDB_SCHULART_AA typ="105" />
       <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
+  </COURSE>
+  <COURSE>
+      <CS_NAME>Aktuelles Arbeitsrecht 2022</CS_NAME>
+      <CS_ID>99BEDCEB-4FF3-3F8F-88B7-B30E50638F01</CS_ID>
+      <CS_DESC_LONG>Kurzbeschreibung
+Das Arbeitsrecht unterliegt einem ständigen Wandel durch Änderungen der Gesetzgebung und der folgenden Rechtsprechung. Im Seminar erhalten Sie notwendige
+Kenntnisse dieser Vorschriften bezogen auf soziale Einrichtungen, um rechtssicher zu handeln und unnötige gerichtliche Auseinandersetzungen zu vermeiden.
+
+- Beschäftigtendatenschutz nach EUDSGVO und BDSG
+- Urlaubsrecht, Urlaubsplanung, Verfall von Ansprüchen, Abgeltung von Urlaub
+- Qualifizierungsvereinbarungen mit Bindungsklausel
+- Befristung von Arbeitsverträgen mit und ohne Sachgrund
+- Inhaltliche Gestaltungsmöglichkeiten bei Arbeitsverträgen
+- Arbeitszeitrecht, Bereitschaftsdienste, Über- und Mehrstunden
+- Arbeitsrechtliche Sanktionen, Ermahnung, Abmahnung, Kündigung
+- Bedeutung des Eingliederungsmanagements bei personenbedingten Kündigungen wegen Krankheit
+- Übersicht aktueller Rechtsprechung der Arbeitsgerichte
+
+Aus Gründen der Aktualität können kurzfristig weitere Themen aufgenommen werden.     </CS_DESC_LONG>
+      <CS_INFOLINK>https://www.iwk.eu/angebote-potsdam/seminare/event/53-seminare/2656-aktuelles-arbeitsrecht-2021</CS_INFOLINK>
+      <CS_LANGUAGE>ger</CS_LANGUAGE>
+      <COURSESCHEDULES PERMANENT="false" WDB_IWWB="true" REQUEST="false">
+        <SCHEDULE> 
+          <S_ID>65160DC8-10CB-B7B4-AFBA-94100CEB713E</S_ID>
+          <S_START_DATE>2022-09-05T00:00:00</S_START_DATE>
+          <S_END_DATE>2022-09-05T00:00:00</S_END_DATE>
+          <S_DURATION_NUM>8</S_DURATION_NUM>
+          <S_DURATION_UNIT>Hours</S_DURATION_UNIT>
+          <S_DURATION_EST_NUM>1</S_DURATION_EST_NUM>
+          <S_DURATION_EST_UNIT>Days</S_DURATION_EST_UNIT>
+          <ADDRESS> 
+            <A_NAME>Institut für Weiterbildung in der Kranken- und Altenpflege gGmbH - IWK</A_NAME>
+            <A_STREET>Fritz-Zubeil-Straße 14</A_STREET>
+            <A_CITY>Potsdam</A_CITY>
+            <A_ZIP>14482</A_ZIP>
+            <A_COUNTRY>DE</A_COUNTRY>
+            <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+          </ADDRESS> 
+          <CONTACT>
+            <C_NAME>Sekretariat</C_NAME>
+            <C_SURNAME></C_SURNAME>
+            <C_PHONE>+49.331.5503636</C_PHONE>
+            <C_FAX>+49.331.5503498</C_FAX>
+            <C_EMAIL>potsdam@i-w-k.de</C_EMAIL>
+            <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+          </CONTACT>
+          <S_WDB_BESCHR>Montag</S_WDB_BESCHR>
+          <S_WDB_PRAKTIKUM>false</S_WDB_PRAKTIKUM>
+          <S_WDB_INFOLINK>https://www.iwk.eu/angebote-potsdam/seminare/event/53-seminare/2656-aktuelles-arbeitsrecht-2021</S_WDB_INFOLINK>
+        </SCHEDULE> 
+      </COURSESCHEDULES>
+      <CS_SUPPLIERID>4C6ECEE4-5814-429D-1515-9697DFAEE874</CS_SUPPLIERID>
+      <CONTACT>
+        <C_NAME>Sekretariat</C_NAME>
+        <C_SURNAME></C_SURNAME>
+        <C_PHONE>+49.331.5503636</C_PHONE>
+        <C_FAX>+49.331.5503498</C_FAX>
+        <C_EMAIL>potsdam@i-w-k.de</C_EMAIL>
+        <C_WDB_ANREDE>Frau</C_WDB_ANREDE>
+      </CONTACT>
+      <CS_PROMOTION_DESC>keine Förderung bekannt/ möglich</CS_PROMOTION_DESC>
+      <CS_REQUIREMENTS>keine</CS_REQUIREMENTS>
+      <CS_DEGREE_EXAM>false</CS_DEGREE_EXAM>
+      <CS_PRICE>120</CS_PRICE>
+      <CS_PRICE_CURRENCY>EUR</CS_PRICE_CURRENCY>
+      <CS_PRICE_TOTAL>true</CS_PRICE_TOTAL>
+      <CS_CERTIFICATE_DESC>Nicht zertifiziert</CS_CERTIFICATE_DESC>
+      <CS_WDB_KINDERBETREUUNG>false</CS_WDB_KINDERBETREUUNG>
+      <CS_WDB_FRAUENSPEZIFISCH>false</CS_WDB_FRAUENSPEZIFISCH>
+      <CS_WDB_ZIELGRUPPE>Alle in der Pflege Tätigen</CS_WDB_ZIELGRUPPE>
+      <CS_WDB_ZEITLICHEDURCHFUEHRUNG>Tagesveranstaltung</CS_WDB_ZEITLICHEDURCHFUEHRUNG>
+      <CS_WDB_TYPE>Fortbildung/Weiterbildung</CS_WDB_TYPE>
+      <CS_WDB_MODE>Präsenzveranstaltung</CS_WDB_MODE>
+      <CS_WDB_DEGREE_TYPE>Zertifikat/Teilnahmebestätigung</CS_WDB_DEGREE_TYPE>
+      <CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>8</CS_WDB_UNTERRICHTSSTUNDEN_ANZAHL>
+      <CS_WDB_GESAMTDAUER_ANZAHL>1</CS_WDB_GESAMTDAUER_ANZAHL>
+      <CS_WDB_GESAMTDAUER_EINHEIT>Days</CS_WDB_GESAMTDAUER_EINHEIT>
+      <CS_WDB_ADDRESS> 
+        <ADDRESS> 
+          <A_NAME>Institut für Weiterbildung in der Kranken- und Altenpflege gGmbH - IWK</A_NAME>
+          <A_STREET>Fritz-Zubeil-Straße 14</A_STREET>
+          <A_CITY>Potsdam</A_CITY>
+          <A_ZIP>14482</A_ZIP>
+          <A_COUNTRY>DE</A_COUNTRY>
+          <A_WDB_BEHINDERTENGERECHT>true</A_WDB_BEHINDERTENGERECHT>
+        </ADDRESS> 
+      </CS_WDB_ADDRESS> 
+      <CS_WDB_TEILNEHMER_MIN>5</CS_WDB_TEILNEHMER_MIN>
+      <CS_WDB_TEILNEHMER_MAX>15</CS_WDB_TEILNEHMER_MAX>
+      <CS_WDB_SYSTEMATIK_AA>C 0250-15-15</CS_WDB_SYSTEMATIK_AA>
+      <CS_WDB_SCHULART_AA typ="105" />
+      <CS_WDB_PRAKTIKUM>false</CS_WDB_PRAKTIKUM>
     </COURSE>
 </INSERTCOURSES>
+</COURSETRANSACTIONS>
+</DEFTISCAT>
