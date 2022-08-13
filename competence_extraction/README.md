@@ -57,6 +57,13 @@ docker compose down
 
 ## 4. Run NLP Service
 
+### 4.1 Docker configuration
+
+Since default memory setting cannot satisfied our nlp service running requirements, please increase memory of Docker containers to at least 8G:
+go to Preferences > Resource/Advanced > Memory
+
+### 4.2 Run the Service
+
 run the following command in subfolder competence_extraction/nlp_service to extract competencies in Jupyter Notebook
 
 - build up the nlp service image based on Jupyter Notebook
@@ -71,7 +78,6 @@ docker build -t mysharednotebook .
 docker run -it -p 8888:8888 -v $PWD/output:/output mysharednotebook
 ```
 
-- Use Control-C to stop this server and shut down all kernels
+- You can find the URLs with a token around the end of the outputs. Use cmd+click to open one of these URLs in a browser.
 
-- Since default memory setting cannot satisfied our nlp service running requirements, please increase memory of Docker containers to at least 8G:
-  go to Preferences > Resource/Advanced > Memory
+- Use Control-C to stop this server and shut down all kernels
