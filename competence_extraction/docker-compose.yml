@@ -1,0 +1,39 @@
+version: "3.9"
+services:
+  neo4j:
+    image: neo4j:4.4.10
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - ./neo4j/data:/data
+      - ./neo4j/logs:/logs
+      - ./neo4j/import:/import
+    environment:
+      ## set the Inital NEO4J_AUTH only, they can be changed on the neo4j browser 
+      - NEO4J_AUTH=neo4j/awt2022
+      ## add and activate plugin  apoc 
+      - NEO4JLABS_PLUGINS=["apoc"]
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
+      ## enable xml data import 
+      - NEO4J_apoc_import_file_enabled=true
+      ## configurate memory setting 
+      ## docker logs
+      - NEO4J_dbms_memory_heap_initial_size=2G
+      - NEO4J_dbms_memory_heap_max_size=2G
+      - NEO4J_dbms_memory_pagecache_size=4G
+  fast_api:
+    build: ./fast_api
+    ports:
+      - "80:80"
+    depends_on:
+      - neo4j
+    environment:
+      DATABASE_USERNAME: neo4j
+      DATABASE_PASSWORD: awt2022
+      DATABASE_URL: bolt://neo4j:7687
+
+# neo4j: http://localhost:7474
+# api: http://127.0.0.1/docs
+## docker compose up -d
+## docker compose down
