@@ -2,6 +2,8 @@
 
 ## 1. Import data into database
 
+First you need to place the files(course_description_FOKUS.xml, skills_de.csv, relations.csv) in the neo4j/import folder. (You can find the file relations.csv in nlp_service/output after you run the file main.ipynb or main_with_venv.ipynb.)
+
 ### 1.1 import course descriptions
 
 ```Cypher

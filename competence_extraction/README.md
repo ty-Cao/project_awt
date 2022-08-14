@@ -78,6 +78,79 @@ docker build -t mysharednotebook .
 docker run -it -p 8888:8888 -v $PWD/output:/output mysharednotebook
 ```
 
-- You can find the URLs with a token around the end of the outputs. Use cmd+click to open one of these URLs in a browser.
+- You can find the URLs with a token around the end of the outputs. Use cmd+click to open the last URL in a browser.
+
+- Open the file main.ipynb to run the NLP service.
+
+- If you encounter "Persmission denied" / "Forbidden" Error when opening the main.ipynb file, try:
+
+```bash
+docker run -it -p 8888:8888  -v $PWD/output:/output  fanjingwenvi/mysharednotebook:1.0
+```
+
+If the problem cannot be solved, we recommend that you use the alternative method mentioned below.
 
 - Use Control-C to stop this server and shut down all kernels
+
+### Alternative Running method for nlp service
+
+#### Create an environment
+
+Step 1: go to the subfolder competence_extraction/nlp_service
+
+Step 2: run the following command (in Windows: as administrator in Powershell) to create a virtual environment
+
+Windows/macOS/Linux:
+
+```bash
+python3 -m venv venv
+```
+
+#### Activate the environment
+
+Please use python version < 3.9.0.
+
+Windows:
+
+```bash
+.\venv\Scripts\activate
+```
+
+macOS/Linux:
+
+```bash
+. venv/bin/activate
+```
+
+#### Install dependencies
+
+Windows/macOS/Linux:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+#### Create ipykernel with name=awt2022
+
+Windows:
+
+```bash
+ipython kernel install --user --name=awt2022
+python -m pip install jupyter
+```
+
+macOS/Linux:
+
+```bash
+python3 -m ipykernel install --user --name=awt2022
+```
+
+#### Start jupyter notebook
+
+Windows/macOS/Linux:
+
+```bash
+jupyter notebook
+```
+
+#### Open the file main_with_venv.ipynb to run the NLP service
